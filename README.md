@@ -1,5 +1,1 @@
- - Clone this repository
- - cd social-media
- - Copy existing server.properties file to src/main/resources or Create src/main/resources/server.properties from src/main/resources/server-template.properties file and update configuration.
-- mvn clean compile install
-- Copy target/ROOT.war to tomcat/webapps
+
